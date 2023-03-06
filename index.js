@@ -17,7 +17,7 @@ import './style.css';
 // Write Javascript code!
 let autore= "Mario";   //nome autore
 let titolo= "Nuvole";  //nome titolo
-let stringa= "ma";      //stringa inserita dall'utente
+let stringa= "ma";     //stringa inserita dall'utente
 
 if(autore + " " + titolo.toLowerCase().includes(stringa.toLowerCase()))
 {
@@ -27,3 +27,4 @@ else{
   console.log("Nessun risultato trovato");
 }
 
+/*oppure inner.html attaccandolo con 'demo'*/
