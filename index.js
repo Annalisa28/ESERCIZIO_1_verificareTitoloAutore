@@ -1,5 +1,5 @@
 /*
-Esercizio
+Esercizio 1
 Provate a scrivere il codice per verificare titolo e autore di un certo
 volume contengonoo una certa sequenza di caratteri:
 concatenate titolo e autore
